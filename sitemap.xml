@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+  <!-- Main page -->
+  <url>
+    <loc>https://catbreedscenter.netlify.app/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Sections with article anchors -->
+  <url>
+    <loc>https://catbreedscenter.netlify.app/#siamese-cats</loc>
+  </url>
+  <url>
+    <loc>https://catbreedscenter.netlify.app/#maine-coon</loc>
+  </url>
+  <url>
+    <loc>https://catbreedscenter.netlify.app/#persian-cats</loc>
+  </url>
+  <url>
+    <loc>https://catbreedscenter.netlify.app/#ragdoll-cats</loc>
+  </url>
+  <!-- Add all other anchors similarly: -->
+  <url><loc>https://catbreedscenter.netlify.app/#bengal-cats</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#sphynx-cats</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#scottish-fold</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#british-shorthair</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#abyssinian-cats</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#oriental-shorthair</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#norwegian-forest-cat</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#burmese-cats</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#turkish-van</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#savannah-cats</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#american-shorthair</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#exotic-shorthair</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#russian-blue</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#siberian-cats</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#chartreux-cats</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#manx-cats</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#devon-rex</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#cornish-rex</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#singapura-cats</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#havana-brown</loc></url>
+  <url><loc>https://catbreedscenter.netlify.app/#balinese-cats</loc></url>
+</urlset>
